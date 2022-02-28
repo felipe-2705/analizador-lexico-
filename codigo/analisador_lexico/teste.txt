@@ -1,0 +1,18 @@
+procedure principal 
+se ( 3 <= 4.5 ) entao repita  senao inicio fim {comentario} ;
+se ( 3 >= 4 ) entao repita  senao inicio fim {comentario} ;
+{
+
+
+
+}
+se ( 3 <= 4 ) entao repita  senao inicio fim {comentario} ;
+se ( 3 >= 4 ) entao repita  senao inicio fim {comentario} ;
+enquanto{ 
+    ? <> 
+    - da0fda-ok= L$
+}
+
+
+
+

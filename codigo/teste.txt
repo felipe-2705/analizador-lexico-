@@ -1,0 +1,11 @@
+procedure
+principal
+inicio
+integer alpha, beta;
+
+repita 
+inicio
+alpha := 1 + alpha * 3;
+fim 
+enquanto ( alpha <= 100);
+fim
